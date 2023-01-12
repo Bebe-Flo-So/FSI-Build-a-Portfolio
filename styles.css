@@ -1,0 +1,20 @@
+body {
+  background-color:#ecece9;
+}
+h1 {
+  color:red;
+  border:dashed;
+  border-color:black;
+  text-align:center
+  }
+h2 {
+  text-align: center;
+  color: #e18937
+}
+p {
+  color: #652929;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+h3 {
+  color: #e18937;
+
